@@ -1,4 +1,4 @@
-basic pre-processing of a data, before any ml, statistical model is executed on it.
+Basic pre-processing of a data, before any ml, statistical model is executed on it.
 
 key features:
 - managing good/bad data
